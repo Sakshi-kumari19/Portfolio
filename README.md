@@ -1,7 +1,7 @@
 # React + Vite
 It is a fully responsive Portfolio website created using html , react and tailwind css.
 
-Portfolio link https://master--glistening-lokum-4b9241.netlify.app/
+Portfolio link https:https://sakshikportfolio.netlify.app/
 
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
